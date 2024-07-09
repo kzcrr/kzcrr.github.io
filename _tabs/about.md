@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+Social and cultural anthropologist enthusiastic about data and technology. University teacher for the love of public universities. Currently, I work as a technology analyst at Taquion leading market-oriented innovation projects. I have experience as a research analyst oriented to quantitative and qualitative strategies both in academia and the private sector.
