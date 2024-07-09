@@ -38,7 +38,7 @@ social:
   email: karenazcurra@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - #https://twitter.com/username # change to your twitter homepage
+    - # change to your twitter homepage
     - https://github.com/kzcrr # change to your github homepage
     - https://www.linkedin.com/in/karen-azcurra/ 
     # Uncomment below to add more social links
