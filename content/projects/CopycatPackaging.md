@@ -1,14 +1,13 @@
 ---
 date: '2024-02-01'
-title: 'Copycat Packaging in Consumer Products'
+title: 'ASML Public Interest Social Media Solutions workshop'
 github: ''
-external: 'https://docs.google.com/presentation/d/1BhfDchTWfW0CFPsikQ2Ur_45HVbObBT5HPnSpcTXzAU/edit?usp=sharing'
+external: ''
 tech:
-  - Marketing Ethics
-  - FMCG
-  - Brand Identity
-company: 'Project'
+  - Bot
+  - Accesible information
+company: 'Event'
 showInProjects: true
 ---
 
-Why do companies, even big brands like Tata Skye indulge in Copycat Packaging? A deep dive.
+I participated in the ASML Public Interest Social Media Solutions workshop at Berkman Klein Center for Internet & Society at Harvard University presenting Chuz-bot, a project that seeks access to well-explained and verified information about the positions of electoral candidates.

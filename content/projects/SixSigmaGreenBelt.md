@@ -1,14 +1,12 @@
 ---
-date: '2022-06-12'
-title: 'Six Sigma: Green Belt'
+date: '2023-06-12'
+title: 'Hub of the Feminist AI Research Network (f<A+i>r)'
 github: ''
-external: 'https://drive.google.com/file/d/16brJRCuvKbyYp7MZgq7TMlWWO5X5BTQ9/view?usp=sharing'
+external: 
 tech:
-  - DMAIC
-  - TQM
-  - Process Improvement
-company: 'Certification'
+  - Feminist AI
+company: 'Event'
 showInProjects: true
 ---
 
-Understood the fundamentals of Six Sigma along with project implementations
+Member of the 2022-2023 cohort of the Latin America and Caribbean (LAC) Hub of the Feminist AI Research Network (f<A+i>r).

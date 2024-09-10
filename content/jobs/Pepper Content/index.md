@@ -1,13 +1,15 @@
 ---
-date: '2021-07-01'
-title: 'Content Writer'
-company: 'Pepper Content'
+date: '2021-01-01'
+title: 'Research Fellow'
+company: 'CCTS'
 location: 'Remote'
-range: 'July 2021 - January 2023'
-url: 'https://www.peppercontent.io'
+range: 'March 2020 - November 2022'
+url: 'https://ccts.maimonides.edu/'
 ---
 
-- Developed several technical content creation in form of blogs, articles, white papers, and website content.
-- Created articles for topics like Blockchain, SaaS, Agile, No/Low Code, SAP Testing, and Data Analytics
-- Successfully delivered 10+ articles with 60% of them receiving 5-star rating from clients like American Technology Consulting, Mindler, Last9, Seekho, Team Business Solutions LLC, WeP Digital, etc.
-- [Click here to view all published articles](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ)
+Project: "Labor Technoscientist and Gender Equity in Argentina: Comparing Barriers and Opportunities for Women in the Public and Private Sectors" financed by IDRC, Canada. 
+- Searched and systematized of secondary sources.
+- Conducted and analyzed in-depth semi-structured interviews and coordinated a focus group. 
+- Data analyzed of secondary source dataset in RStudio.
+- Organized of two workshops with stakeholders and policymakers. Preparation of reports and recommendations of public policies. Dissemination of results in articles and conferences.
+

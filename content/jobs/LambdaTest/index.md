@@ -1,13 +1,11 @@
 ---
-date: '2022-02-05'
-title: 'Freelance Technical Writer'
-company: 'LambdaTest'
+date: '2022-06-05'
+title: 'Research Analyst'
+company: 'Dentsu'
 location: 'Remote'
-range: 'Feb 2022 - Present'
-url: 'https://www.lambdatest.com/'
+range: 'November 2022 - July 2023'
+url: 'https://www.dentsu.com/'
 ---
 
-- Published high quality SEO optimised blogs and articles on topics like CI/CD, DevOps, Selenium, LambdaTest integrations, Cross-Browser testing, and How-to tutorials
-- 400,000+ views on the following published articles:
-- [Streamline Your Development Process With Google Cloud CI/CD Pipeline](https://www.lambdatest.com/blog/google-cloud-ci-cd-pipeline/)
-- [Getting Started With DevOps – A Beginner’s Guide](https://www.lambdatest.com/blog/getting-started-with-devops/)
+- Data analyzed of several Kantar platforms (Choices, Instar, Admedia) generating valuable information for decision making in market advertising.
+- Social Listening reported using Meltwater for product and service evaluation.

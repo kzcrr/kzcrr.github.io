@@ -1,13 +1,14 @@
 ---
-date: '2023-04-17'
-title: 'Sales & Marketing Intern'
-company: 'Tata Steel'
-location: 'Kolkata, India'
-range: 'April - June 2023'
-url: 'https://tatasteel.com/'
+date: '2022-04-17'
+title: 'Consultancy'
+company: 'Contratá Trans'
+location: 'Remote'
+range: 'September - November 2022'
+url: 'https://www.contratatrans.org/'
 ---
 
-- Conducted a gap analysis of end consumers’ brand perceptions on Tata Structura in Kolkata and its nearby regions
-- Devised retail brand re-positioning strategy using 30+ dealers and 80+ end consumer insights gathered
-- Led re-branding efforts with logo and tagline revamp, bolstered by YouTube ads and positive consumer stories
-- Bagged a Pre-Placement Offer (PPO) among the top talents due to exceptional performance during the internship stint
+"Contratá trans" is a program from Impacto Digital to improve opportunities for socio-employment insertion for trans and non-binary people. 
+
+- Data analyzed of Contrata trans plataform in RStudio (library dplyr, ggplot).
+- Database reorganizated and anonymizated of dataset. 
+- Preparated of reports and recommendations. 

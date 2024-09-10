@@ -1,8 +1,8 @@
 ---
-date: '2023-11-20'
-title: 'Repositioning of Tata Structura in Retail'
+date: '2020-11-20'
+title: 'Science and periphery study circle'
 github: ''
-external: 'https://docs.google.com/presentation/d/1JjfyBadKZe2tgKaYhVG4DMDqIAtVOFSaxZpkZAkbGfk/edit?usp=sharing'
+external: 'https://www.circulocienciayperiferia.com/'
 tech:
   - Brand Repositioning
   - Brand Elements
@@ -11,5 +11,4 @@ company: 'Project'
 showInProjects: true
 ---
 
-How to reposition hollow structural tubes brand in retail using its brand elements, content marketing, and several online/offline touchpoints
-
+Co-coordinate of the Science and Periphery Study Circle at UNSAM (2020- Present)

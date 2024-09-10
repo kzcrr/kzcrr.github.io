@@ -1,15 +1,14 @@
 ---
-date: '2023-08-01'
-title: 'Avalon Consulting: Sun Tzu Case Study 2023'
+date: '2024-08-01'
+title: 'RESPECT Workshop Georgia Tech 2024'
 github: ''
-external: 'https://docs.google.com/presentation/d/1gpdKIeqhw4rpUXoTCgbmC8WMSSU-B2uOYhLG_6__wOs/edit?usp=sharing'
+external: 'https://sciencebias.uni.lu/'
 tech:
-  - Consulting
-  - Issue Tree
-  - CPVC/UPVC Industry
-  - Market Entry
-company: 'Case Competition'
+  - Social Science Research
+  - Bibliometrics
+  - Inequalities in Science
+company: 'Event'
 showInProjects: true
 ---
 
-Can a hypothetical company Prime Corporation enter the CPVC/UPVC market succesfully?
+As a Fellow of the Racial Equity in Scientific Practices: Examinations of Careers and Topics (RESPECT) we met in a workshop in Atlanta to get to know each other and work on projects related to inequalities in science and technology.

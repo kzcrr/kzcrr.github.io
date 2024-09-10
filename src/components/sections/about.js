@@ -125,8 +125,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Market Research', 'Data Analysis', 'Brand Management', 'Digital Marketing', 
-  'SPSS', 'Tableau', 'MS Office', 'Python'];
+  const skills = ['Data Analysis', 'Social Research', 'Project Management',
+    'SQL', 'No-code Automation ', 'Rstudio'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,33 +135,19 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-            With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             strategies in brand perceptions during my MBA summer internship for {' '}
-             <a href="https://www.tatastructura.com">Tata Structura</a> {' '} at{' '} 
-             <a href="https://drive.google.com/file/d/1xhGTFz7pe6kP7bZ4peDgJ7hlG630K8rz/view?usp=sharing">Tata Steel</a>.
-            </p>
 
             <p>
-            I also spearheaded employer branding initiatives for {' '}
-            <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
-              Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
-              during my remote live project as part of my MBA journey.
+            I am a social and cultural anthropologist from the {' '}
+             <a href="https://unsam.edu.ar/"> National University of San Martín (UNSAM)</a> {' '}Also, university teacher for the love of the public university.
+             Currently, I work as a technology analyst at {' '} <a href= "https://www.taquion.com.ar/"> Taquion </a> {' '} leading market-oriented innovation projects. 
+             I have experience as a research analyst oriented to quantitative and qualitative strategies.
+             </p>
+             <p>
+             I like to think of myself as an amphibian because I like to work in the private sector and in academia. 
+             In industry, I currently work in automation and data processing. In academia, I continue to do research on the intersections between science, technology and gender.
             </p>
 
-            <p>
-            During my tenure at {' '} <a href="https://www.amdocs.com">Amdocs</a>, {' '} 
-            where I served as a Software Developer, I had the honor of being selected as one of 16 elite {' '} 
-            <a href="https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing">Innovation Agents</a>.
-            </p>
-
-            <p>
-            Moreover, my role as a {' '} <a href="https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing">
-              Placement Coordinator</a> {' '} at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a 
-              remarkable 42% boost in campus placements.
-            </p>
-
-            <p>My skills are not limited to this list!</p>
+            <p>Some of my skills are:</p>
           </div>
 
           <ul className="skills-list">
@@ -173,7 +159,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

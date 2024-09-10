@@ -1,14 +1,12 @@
 ---
-date: '2023-08-20'
-title: 'Tata Steel: Steel-a-thon 2023 (Business Track)'
+date: '2023-10-20'
+title: 'International School on Computational Social Sciences 2023'
 github: ''
-external: 'https://docs.google.com/presentation/d/1BoHWWokNWOHcMYUhMUO4taLX_-Plec2bfrswio2Wa2A/edit?usp=sharing'
+external: 'https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/'
 tech:
-  - Strategy
-  - Marketing
-  - Sustainability
-company: 'Case Competition'
+  - Machine Learning
+company: 'Course'
 showInProjects: true
 ---
 
-Determining Brand Positioning for new Tata Tiscon Rebar through Electric Arc Furnace (EAF) route or Green Steel
+ I participated in the International School on Computational Social Sciences 2023 organized by the Millennium Institute Foundations of Data, the Interdisciplinary Center on Data Science and Machine Learning, and the Methods and Data Access Unit of the University of the Republic.

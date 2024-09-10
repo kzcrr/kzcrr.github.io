@@ -1,12 +1,15 @@
 ---
 date: '2023-07-05'
-title: 'Employer Branding Intern'
-company: 'ABFRL'
-location: 'Remote'
-range: 'July - September 2023'
-url: 'https://abfrl.com/'
+title: 'Technology Analyst'
+company: 'Taquion'
+location: 'Buenos Aires'
+range: 'January 2024 - Current'
+url: 'https://www.taquion.com.ar/'
+
 ---
 
-- Amplified the STRIDES program value, aiding potential recruits in understanding career growth opportunities
-- Developed strategic Campus Engagement deliverables for leadership talks as part of the Young Talent Management (YTM) team
-- Enhanced recruitment by 37% by promoting the STRIDE program & leading campus initiatives on LinkedIn
+- Improved work processes through no code automation, saving work for the Business and Delivery teams.
+- Coordinated the exploration of innovation projects.
+- Built a new way to manage, centralize data and connect areas with different information.
+- Generated capabilities in the company by training teams in tools
+
